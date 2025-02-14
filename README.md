@@ -83,9 +83,9 @@ Aqui adicionarei anotações e códigos feitos conforme avanço no curso.
 
 ## Referências
 
-- Documentação oficial do Swift e iOS
-- Livros e materiais recomendados durante o curso
-- Fóruns e comunidades de desenvolvimento iOS
+- Documentação oficial do Swift e iOS;
+- Livros e materiais recomendados durante o curso;
+- Fóruns e comunidades de desenvolvimento iOS.
 
 ## 
 
