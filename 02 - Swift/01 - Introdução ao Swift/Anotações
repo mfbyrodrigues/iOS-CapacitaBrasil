@@ -1,0 +1,12 @@
+BREVE HISTÓRIA
+- Lançada em 2014
+- Utilizada para iOS, macOS, watchOS, tvOS
+- Sucessora do Objective-C
+
+CARACTERÍSTICAS
+- Type-safe: valor da variável vai continuar durante toda a execução
+- Open source (2015): contribuir com o desenvolvimento da linguagem
+- Compilada: geração de um executável
+- Optionals: maneira de trabalhar com valores nulos
+- Structs com suporte a métodos, extensões e protocolos
+- Gerenciamento automático de memória
