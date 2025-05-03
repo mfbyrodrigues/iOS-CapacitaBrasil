@@ -43,8 +43,6 @@ Para acompanhar as aulas e praticar, estou utilizando:
 
 - **IDE:** Xcode;
 - **Linguagem:** Swift;
-- **Simulador:** iOS Simulator;
-- **Ferramentas Adicionais:** CocoaPods, Swift Package Manager.
 
 ## Conteúdo do Curso
 
