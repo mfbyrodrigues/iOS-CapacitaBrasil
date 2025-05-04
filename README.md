@@ -24,12 +24,31 @@ O curso de iOS do CapacitaBrasil tem como objetivo capacitar profissionais para 
    - Projeto de vida.
 
 2. **Hard skills:**
-   - Introdução ao desenvolvimento iOS;
-   - Sintaxe e fundamentos do Swift;
-   - UIKit e SwiftUI;
-   - Persistência de dados (Core Data, UserDefaults);
-   - Consumo de APIs (Networking com URLSession);
-   - Testes e depuração de aplicativos.
+   - **1º capítulo: Protótipo de Software**
+     - Lógica de Programação
+     - Swift
+     - SwiftUI
+     - Introdução a UX Design
+     - Design Thinking
+     - Animações com Swift
+     - Pesquisa e Descoberta do Usuário
+     - Testes de Usabilidade
+     - Persistência de Dados
+     - Introdução a UI Design
+     - Usabilidade: Heurísticas de Nielsen
+     - Wireframes e Prototipagem
+   - **2º capítulo: Produto de Software**
+     - SwiftUI II
+     - Internacionalização
+     - Arquitetura de Software
+     - iOS Debugging
+     - Design para Plataformas Apple - HIG
+     - Boas Práticas de Acessibilidade
+     - Requisições Web
+   - **3º capítulo: Projeto Integrador**
+     - SOLID
+     - Testes Unitários
+     - Notificações
 
 3. **Imersão em empresa parceira:**
    - Aplicação prática dos conhecimentos adquiridos;
