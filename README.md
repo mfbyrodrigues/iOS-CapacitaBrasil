@@ -24,34 +24,9 @@ O curso de iOS do CapacitaBrasil tem como objetivo capacitar profissionais para 
    - Projeto de vida.
 
 2. **Hard skills:**
-   - **1º capítulo: Protótipo de Software**
-     
-     - Lógica de Programação
-     - Swift
-     - SwiftUI
-     - Introdução a UX Design
-     - Design Thinking
-     - Animações com Swift
-     - Pesquisa e Descoberta do Usuário
-     - Testes de Usabilidade
-     - Persistência de Dados
-     - Introdução a UI Design
-     - Usabilidade: Heurísticas de Nielsen
-     - Wireframes e Prototipagem
-       
-   - **2º capítulo: Produto de Software**
-     - SwiftUI II
-     - Internacionalização
-     - Arquitetura de Software
-     - iOS Debugging
-     - Design para Plataformas Apple - HIG
-     - Boas Práticas de Acessibilidade
-     - Requisições Web
-       
-   - **3º capítulo: Projeto Integrador**
-     - SOLID
-     - Testes Unitários
-     - Notificações
+   - Protótipo de Software
+   - Produto de Software 
+   - Projeto Integrador
 
 3. **Imersão em empresa parceira:**
    - Aplicação prática dos conhecimentos adquiridos;
@@ -72,30 +47,33 @@ Para acompanhar as aulas e praticar, estou utilizando:
 
 Os principais tópicos abordados incluem:
 
-1. **Fundamentos do Desenvolvimento iOS**
-   - Estrutura de um projeto iOS
-   - Ciclo de vida de um aplicativo
-   - Interface Builder e Auto Layout
+**1º capítulo: Protótipo de Software**
+   - Lógica de Programação
+   - Swift
+   - SwiftUI
+   - Introdução a UX Design
+   - Design Thinking
+   - Animações com Swift
+   - Pesquisa e Descoberta do Usuário
+   - Testes de Usabilidade
+   - Persistência de Dados
+   - Introdução a UI Design
+   - Usabilidade: Heurísticas de Nielsen
+   - Wireframes e Prototipagem
 
-2. **Programação com Swift**
-   - Tipos de dados, operadores e estruturas de controle
-   - Orientação a objetos com Swift
-   - Manipulação de coleções (Arrays, Dicionários, Sets)
-
-3. **Criação de Interfaces Gráficas**
-   - UIKit e SwiftUI
-   - Componentes visuais e navegação
-   - Animações e interações
-
-4. **Integração com APIs e Banco de Dados**
-   - Chamadas HTTP e JSON
-   - Core Data e UserDefaults
-
-5. **Testes e Depuração**
-   - Testes unitários e de interface
-   - Uso do Debugger no Xcode
-
-6. **Projeto Final**
+**2º capítulo: Produto de Software**
+   - SwiftUI II
+   - Internacionalização
+   - Arquitetura de Software
+   - iOS Debugging
+   - Design para Plataformas Apple - HIG
+   - Boas Práticas de Acessibilidade
+   - Requisições Web
+     
+**3º capítulo: Projeto Integrador**
+   - SOLID
+   - Testes Unitários
+   - Notificações
    - Desenvolvimento de um aplicativo funcional
    - Apresentação do projeto
 
