@@ -25,6 +25,7 @@ O curso de iOS do CapacitaBrasil tem como objetivo capacitar profissionais para 
 
 2. **Hard skills:**
    - **1º capítulo: Protótipo de Software**
+     
      - Lógica de Programação
      - Swift
      - SwiftUI
@@ -37,6 +38,7 @@ O curso de iOS do CapacitaBrasil tem como objetivo capacitar profissionais para 
      - Introdução a UI Design
      - Usabilidade: Heurísticas de Nielsen
      - Wireframes e Prototipagem
+       
    - **2º capítulo: Produto de Software**
      - SwiftUI II
      - Internacionalização
@@ -45,6 +47,7 @@ O curso de iOS do CapacitaBrasil tem como objetivo capacitar profissionais para 
      - Design para Plataformas Apple - HIG
      - Boas Práticas de Acessibilidade
      - Requisições Web
+       
    - **3º capítulo: Projeto Integrador**
      - SOLID
      - Testes Unitários
